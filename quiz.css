@@ -1,0 +1,38 @@
+#output {
+
+    background: rgb(224, 255, 255);
+    
+   border-top: 10px solid #57abc5;
+padding: 10px;
+float: none;
+text-align: center; 
+font-size: larger;
+font-weight: bold;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#main_div {
+font-size: 15px;
+    background: rgb(224, 255, 255);
+    padding: 10px;
+  float: none;
+text-align: left; 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+h4 {
+    font-weight: bold;
+}
+
+h2 {
+
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(171, 255, 255);
+}

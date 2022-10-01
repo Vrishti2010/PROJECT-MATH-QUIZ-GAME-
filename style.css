@@ -1,0 +1,64 @@
+body
+{
+
+	background: linear-gradient(#57abc5 0% ,#71ffee 100%); 
+
+text-align: center;
+}
+
+
+	#main_div
+	{
+		background: linear-gradient(#36d1dc 0%,#6284e9 100%); 
+		color:rgb(0, 0, 0);
+		padding: 10px;
+		float: none;
+		
+		width: 800px;
+		
+		font-family: cursive;
+		
+	}
+	#sign_in {
+		font-family:cursive;
+		font-weight: bold;
+		font-size: 50px;
+
+ }
+
+
+#player1_name_input , #player2_name_input
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	height: 30px;
+	width: 300px;
+}
+#lbl1 , #lbl2{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#btn1 {
+	background-color:(#5841ed);
+	height: 40px;
+	width: 150px;
+	font-size: larger;
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
